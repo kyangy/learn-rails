@@ -41,7 +41,7 @@ gem 'spring',        group: :development
 # learn-rails
 gem 'activerecord-tableless'
 gem 'compass-rails', '~> 2.0.alpha.0'
-gem 'figaro'
+gem 'figaro', '~> 1.0.0'
 gem 'gibbon'
 gem 'google_drive'
 gem 'high_voltage'
